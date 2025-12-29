@@ -13,7 +13,7 @@ A modern model to classify waste into **Organic**, **Anorganic**, or **Mixed** c
 1.  **Clone the repository** (if you haven't already):
     ```bash
     git clone <repository-url>
-    cd klasifikasi-sampah-putra
+    cd Klasifikasi-Sampah
     ```
 
 2.  **Backend Setup**:
